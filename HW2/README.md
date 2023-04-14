@@ -1,6 +1,6 @@
 
 ## Prerequisite 
-!pip install -U albumentations. 
+!pip install -U albumentations.  
 !pip install segmentation-models-pytorch  
 !pip install SimpleITK 
 !pip install torchmetrics 

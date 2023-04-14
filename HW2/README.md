@@ -1,12 +1,12 @@
 
 ## Prerequisite 
-!pip install -U albumentations  
-!pip install segmentation-models-pytorch  
-!pip install SimpleITK  
-!pip install torchmetrics  
-!pip install Medpy  
-!git clone https://github.com/deepmind/surface-distance.git  
-!pip install surface-distance/
+```!pip install -U albumentations```  
+```!pip install segmentation-models-pytorch```  
+```!pip install SimpleITK```  
+```!pip install torchmetrics```  
+```!pip install Medpy```  
+```!git clone https://github.com/deepmind/surface-distance.git```  
+```!pip install surface-distance/```
 
 ## Task 1 Data Downloading
 For Task 1, please run below to download the data  

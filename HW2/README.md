@@ -21,8 +21,7 @@ Run the cells, you will first see the training & testing records and plots witho
 Secondly, you will first see the training & testing record plots with data augmentation.
 
 ## Task 2 Data Downloading
-For Task 2, please run below to download the data. You might need to upload the dataset zip file for task 2 to your google drive, and then unzip it in the colab.  
-First mount google drive on colab  
+For Task 2, please run below to download the data. You might need to upload the dataset zip file for task 2 to your google drive, and then unzip it in the colab  
 ```!unzip "/content/gdrive/MyDrive/ELEC4010N/HW2/kaggle_3m.zip" -d "/content/"```
 
 ## Task 2

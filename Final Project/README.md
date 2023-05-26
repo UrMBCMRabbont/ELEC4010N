@@ -29,7 +29,7 @@ For Task 2, please run below to download the data. You might need to upload the 
 ```%cd "/content/gdrive/MyDrive/Colab Notebooks/ELEC4010N/Final Project/Project2"```
 ```!unzip "/content/gdrive/MyDrive/Colab Notebooks/ELEC4010N/Final Project/Project2/Fundus-doFE.zip" -d "/content/"```
 
-## Flowchart  
+### Flowchart  
 1. Loading data from file system 
 2. Naive Baseline Model - U-Net  
 3. FACT model  
